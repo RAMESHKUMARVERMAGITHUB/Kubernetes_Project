@@ -1,7 +1,7 @@
 kind: Service                             
 apiVersion: v1
 metadata:
-  name: mrdevops1
+  name: mrdevops
   labels:
     app: mrdevops
 spec:
